@@ -1,7 +1,9 @@
 a = 11
 b  = 9
 def food():
-	print("My favorite food is pizza")
+	c = print("My favorite food is pizza")
+	print(c)
 food()
 def laptop():
-	print("My favorite laptop is mackbook.")
+	d = print("My favorite laptop is mackbook.")
+	print(d)
